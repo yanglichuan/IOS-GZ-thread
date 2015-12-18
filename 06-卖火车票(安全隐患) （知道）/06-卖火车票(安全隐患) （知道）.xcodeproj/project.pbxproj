@@ -1,0 +1,427 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		181D57371A65E3C40075C79D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 181D57361A65E3C40075C79D /* main.m */; };
+		181D573A1A65E3C40075C79D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 181D57391A65E3C40075C79D /* AppDelegate.m */; };
+		181D573D1A65E3C40075C79D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 181D573C1A65E3C40075C79D /* ViewController.m */; };
+		181D57401A65E3C40075C79D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 181D573E1A65E3C40075C79D /* Main.storyboard */; };
+		181D57421A65E3C40075C79D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181D57411A65E3C40075C79D /* Images.xcassets */; };
+		181D57451A65E3C40075C79D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 181D57431A65E3C40075C79D /* LaunchScreen.xib */; };
+		181D57511A65E3C40075C79D /* _6________________Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 181D57501A65E3C40075C79D /* _6________________Tests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		181D574B1A65E3C40075C79D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 181D57291A65E3C40075C79D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 181D57301A65E3C40075C79D;
+			remoteInfo = "06-卖火车票(安全隐患) （知道）";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		181D57311A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "06-卖火车票(安全隐患) （知道）.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		181D57351A65E3C40075C79D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		181D57361A65E3C40075C79D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		181D57381A65E3C40075C79D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		181D57391A65E3C40075C79D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		181D573B1A65E3C40075C79D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		181D573C1A65E3C40075C79D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		181D573F1A65E3C40075C79D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		181D57411A65E3C40075C79D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		181D57441A65E3C40075C79D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		181D574A1A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "06-卖火车票(安全隐患) （知道）Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		181D574F1A65E3C40075C79D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		181D57501A65E3C40075C79D /* _6________________Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_6________________Tests.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		181D572E1A65E3C40075C79D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		181D57471A65E3C40075C79D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		181D57281A65E3C40075C79D = {
+			isa = PBXGroup;
+			children = (
+				181D57331A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道） */,
+				181D574D1A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）Tests */,
+				181D57321A65E3C40075C79D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		181D57321A65E3C40075C79D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				181D57311A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）.app */,
+				181D574A1A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		181D57331A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道） */ = {
+			isa = PBXGroup;
+			children = (
+				181D57381A65E3C40075C79D /* AppDelegate.h */,
+				181D57391A65E3C40075C79D /* AppDelegate.m */,
+				181D573B1A65E3C40075C79D /* ViewController.h */,
+				181D573C1A65E3C40075C79D /* ViewController.m */,
+				181D573E1A65E3C40075C79D /* Main.storyboard */,
+				181D57411A65E3C40075C79D /* Images.xcassets */,
+				181D57431A65E3C40075C79D /* LaunchScreen.xib */,
+				181D57341A65E3C40075C79D /* Supporting Files */,
+			);
+			path = "06-卖火车票(安全隐患) （知道）";
+			sourceTree = "<group>";
+		};
+		181D57341A65E3C40075C79D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				181D57351A65E3C40075C79D /* Info.plist */,
+				181D57361A65E3C40075C79D /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		181D574D1A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）Tests */ = {
+			isa = PBXGroup;
+			children = (
+				181D57501A65E3C40075C79D /* _6________________Tests.m */,
+				181D574E1A65E3C40075C79D /* Supporting Files */,
+			);
+			path = "06-卖火车票(安全隐患) （知道）Tests";
+			sourceTree = "<group>";
+		};
+		181D574E1A65E3C40075C79D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				181D574F1A65E3C40075C79D /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		181D57301A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道） */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 181D57541A65E3C40075C79D /* Build configuration list for PBXNativeTarget "06-卖火车票(安全隐患) （知道）" */;
+			buildPhases = (
+				181D572D1A65E3C40075C79D /* Sources */,
+				181D572E1A65E3C40075C79D /* Frameworks */,
+				181D572F1A65E3C40075C79D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "06-卖火车票(安全隐患) （知道）";
+			productName = "06-卖火车票(安全隐患) （知道）";
+			productReference = 181D57311A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）.app */;
+			productType = "com.apple.product-type.application";
+		};
+		181D57491A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 181D57571A65E3C40075C79D /* Build configuration list for PBXNativeTarget "06-卖火车票(安全隐患) （知道）Tests" */;
+			buildPhases = (
+				181D57461A65E3C40075C79D /* Sources */,
+				181D57471A65E3C40075C79D /* Frameworks */,
+				181D57481A65E3C40075C79D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				181D574C1A65E3C40075C79D /* PBXTargetDependency */,
+			);
+			name = "06-卖火车票(安全隐患) （知道）Tests";
+			productName = "06-卖火车票(安全隐患) （知道）Tests";
+			productReference = 181D574A1A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		181D57291A65E3C40075C79D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = apple;
+				TargetAttributes = {
+					181D57301A65E3C40075C79D = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
+					181D57491A65E3C40075C79D = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = 181D57301A65E3C40075C79D;
+					};
+				};
+			};
+			buildConfigurationList = 181D572C1A65E3C40075C79D /* Build configuration list for PBXProject "06-卖火车票(安全隐患) （知道）" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 181D57281A65E3C40075C79D;
+			productRefGroup = 181D57321A65E3C40075C79D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				181D57301A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道） */,
+				181D57491A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道）Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		181D572F1A65E3C40075C79D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				181D57401A65E3C40075C79D /* Main.storyboard in Resources */,
+				181D57451A65E3C40075C79D /* LaunchScreen.xib in Resources */,
+				181D57421A65E3C40075C79D /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		181D57481A65E3C40075C79D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		181D572D1A65E3C40075C79D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				181D573D1A65E3C40075C79D /* ViewController.m in Sources */,
+				181D573A1A65E3C40075C79D /* AppDelegate.m in Sources */,
+				181D57371A65E3C40075C79D /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		181D57461A65E3C40075C79D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				181D57511A65E3C40075C79D /* _6________________Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		181D574C1A65E3C40075C79D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 181D57301A65E3C40075C79D /* 06-卖火车票(安全隐患) （知道） */;
+			targetProxy = 181D574B1A65E3C40075C79D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		181D573E1A65E3C40075C79D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				181D573F1A65E3C40075C79D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		181D57431A65E3C40075C79D /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				181D57441A65E3C40075C79D /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		181D57521A65E3C40075C79D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		181D57531A65E3C40075C79D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		181D57551A65E3C40075C79D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "06-卖火车票(安全隐患) （知道）/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		181D57561A65E3C40075C79D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "06-卖火车票(安全隐患) （知道）/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		181D57581A65E3C40075C79D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "06-卖火车票(安全隐患) （知道）Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/06-卖火车票(安全隐患) （知道）.app/06-卖火车票(安全隐患) （知道）";
+			};
+			name = Debug;
+		};
+		181D57591A65E3C40075C79D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "06-卖火车票(安全隐患) （知道）Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/06-卖火车票(安全隐患) （知道）.app/06-卖火车票(安全隐患) （知道）";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		181D572C1A65E3C40075C79D /* Build configuration list for PBXProject "06-卖火车票(安全隐患) （知道）" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				181D57521A65E3C40075C79D /* Debug */,
+				181D57531A65E3C40075C79D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		181D57541A65E3C40075C79D /* Build configuration list for PBXNativeTarget "06-卖火车票(安全隐患) （知道）" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				181D57551A65E3C40075C79D /* Debug */,
+				181D57561A65E3C40075C79D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		181D57571A65E3C40075C79D /* Build configuration list for PBXNativeTarget "06-卖火车票(安全隐患) （知道）Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				181D57581A65E3C40075C79D /* Debug */,
+				181D57591A65E3C40075C79D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 181D57291A65E3C40075C79D /* Project object */;
+}
